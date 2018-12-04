@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ThirdPractice</string>
+    <string name="stop_service_btn_text">TIME TO DIE!</string>
+    <string name="start_service_btn_text">Start Service</string>
+    <string name="start_second_activity_btn_text">Start second activity</string>
+</resources>
